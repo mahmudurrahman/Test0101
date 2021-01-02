@@ -7,6 +7,8 @@ namespace Test0101
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Mahmud and Mehdi");
+            Console.WriteLine("My university name is Frankfurt UAS");
+            Console.ReadLine();
 
         }
     }
